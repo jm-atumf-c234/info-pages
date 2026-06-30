@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jm-atumf-c234.github.io/info-pages/sitemap.xml
